@@ -1,0 +1,27 @@
+p
+{
+    font-size: 16px;
+    border: solid;
+    border-radius: 8px;
+    border-width: 5px;
+    padding: 10px;
+    background-color: #b1976a;
+    color: #373e2a;
+    
+}
+
+h1
+{
+    font-size: 28px;
+    border: solid;
+    border-radius: 8px;
+    border-width: 5px;
+    padding: 10px;
+    background-color: #b1976a;
+    color: #a44c04
+}
+
+body
+{
+    background-color: #2c4c04;
+}
